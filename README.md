@@ -17,7 +17,7 @@ Here shows the ranking of oxen from lowest to highest:<br>
 2. Ordinary Ox: ranked by the sum of the other 2 cards (if the sum is greater than 10, take the remainder after subtraction of 10)<br>
 3. Double Ox: if the other 2 cards are equal in face values (not Ox values). ranked by the face value of the double.<br>
 3. Ngau Tonku: if the other 2 cards having Ace spade & picture (J,Q,K). If the Ace is others, that is called nenku and only count as 1.<br>
-4. Five Dukes: if all five cards that contain only face cards (J, Q, K).<br>
+4. Five Dukes: if all five cards contain only face cards (J, Q, K).<br>
 
 ### Example:
 * Cards in hand: 3,6,8,4,8<br>
