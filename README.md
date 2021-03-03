@@ -5,11 +5,11 @@ A program to evaluate your ngau(Card game played in Malaysia) ranking<br>
 ## Game introduction
 
 ### The "Ox values" of the cards are as follows:
-Ace = 1<br>
-2,4,5,7,8,9 = respective face values<br>
-10,J,Q,K = 10<br>
-3 = 3 or 6<br>
-6 = 3 or 6<br>
+* Ace = 1<br>
+* 2,4,5,7,8,9 = respective face values<br>
+* 10,J,Q,K = 10<br>
+* 3 = 3 or 6<br>
+* 6 = 3 or 6<br>
 
 ### Ranking of Oxen
 Here shows the ranking of oxen from lowest to highest:<br>
