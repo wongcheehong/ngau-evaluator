@@ -1,5 +1,6 @@
 # ngau-evaluator
-A program to evaluate your ngau(Card game played in Malaysia) ranking
+A program to evaluate your ngau(Card game played in Malaysia) ranking<br>
+[![Run on Repl.it](https://repl.it/badge/github/wongcheehong/ngau-evaluator)](https://repl.it/github/wongcheehong/ngau-evaluator)
 
 The "Ox values" of the cards are as follows:<br>
 Ace = 1<br>
