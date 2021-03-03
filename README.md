@@ -6,7 +6,7 @@ Ace = 1\
 2,4,5,7,8,9 = respective face values\
 10,J,Q,K = 10\
 3 = 3 or 6\
-6 = 3 or 6\
+6 = 3 or 6<br>
 
 Ranking of Oxen\
 Here shows the ranking of oxen from lowest to highest:\
