@@ -25,7 +25,7 @@ Here shows the ranking of oxen from lowest to highest:<br>
   * 3 + 6(counted as 3) + 4 = 10, 8 + 8 = Double-Ox Eight<br>
   * 8 + 4 + 8 = 20, 3 + 6 = 9<br>
 * If one gets cards with face values 6,4,J,9,9 It's a Double-9 Ox.<br>
-* If one gets cards with face values 10,J,Q,Q,K It's a Five Dukes.<br>
+* If one gets cards with face values K,J,Q,Q,K It's a Five Dukes.<br>
 
 PLease see wikipedia for more detail<br>
 https://en.wikipedia.org/wiki/Gnau
