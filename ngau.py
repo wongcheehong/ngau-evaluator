@@ -95,17 +95,17 @@ def higher_rank(other_two, max_rank):
     other_double = (other_two[0] == other_two[1]) # Double flag for other_double
     if max_double and other_double: # When both of them is double
         if poker_rank.index(other_two[0]) > poker_rank.index(max_rank[0]):
-            return True, ("🐮🐮 Double-Ox " + other_two[0])
+            return True, ("🐮 🐮 Double-Ox " + other_two[0])
         else:
-            return False, ("🐮🐮 Double-Ox " + max_rank[0])
+            return False, ("🐮 🐮 Double-Ox " + max_rank[0])
     elif max_double ^ other_double: # XOR operator
         '''
         If one of them is double, then double one is max_rank
         '''
         if max_double:
-            return False, ("🐮🐮 Double-Ox " + max_rank[0])
+            return False, ("🐮 🐮 Double-Ox " + max_rank[0])
         else:
-            return True, ("🐮🐮 Double-Ox " + other_two[0])
+            return True, ("🐮 🐮 Double-Ox " + other_two[0])
     else:
         max_point = 0
         totalOf36 = 0
