@@ -1,5 +1,5 @@
 # ngau-evaluator
-A program to evaluate your ngau(Card game played in Malaysia) ranking<br>
+A program to evaluate your ngau(Card game played in Malaysia) ranking.<br>
 [![Run on Repl.it](https://repl.it/badge/github/wongcheehong/ngau-evaluator)](https://repl.it/github/wongcheehong/ngau-evaluator)
 
 ## Game introduction
